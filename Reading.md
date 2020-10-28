@@ -41,6 +41,7 @@
   - [ ] [2019] A CLOSER LOOK AT FEW-SHOT CLASSIFICATION, [arxiv](https://arxiv.org/abs/1904.04232)
 - [ ] [2020] Self-supervised Learning: Generative or Contrastive [arxiv](https://arxiv.org/pdf/2006.08218.pdf)
   - [ ] [2020] self-supervised Visual Feature Learning with Deep Neural Networks: A Survey. [arxiv](https://arxiv.org/pdf/1902.06162.pdf)
+  - [ ] [2020] A survey on Semi-, Self- and Unsupervised Learning for Image Classification, [arxiv](https://arxiv.org/abs/2002.08721)
 - [ ] [2020] An Overview of Deep Semi-Supervised Learning. [arxiv](https://arxiv.org/abs/2006.05278)
   - [ ] [2020] A survey on semi-supervised learning. [link](https://link.springer.com/content/pdf/10.1007/s10994-019-05855-6.pdf)
 - [ ] [2019] GANs for Medical Image Analysis [arxiv](https://arxiv.org/abs/1809.06222)
@@ -174,7 +175,15 @@
 
 
 
-## 5 Segmentations
+## 5 From Professors
+
+【弱监督学习】Feature Based Augmentation for Semi Supervised Learning (ECCV 2020)
+【弱监督学习】Open-set semi-supervised learning (ECCV 2020)
+【弱监督学习】Semi-supervised learning with few labeled data
+【迁移学习】Universal Domain Adaptation (NeurIPS 2020, ECCV 2020)
+【迁移学习】Domain Generalization without Domain Labels (AAAI 2020)
+
+## 6 Segmentations
 
 - FCN
   - [Fully convolutional networks for semantic segmentation ](https://arxiv.org/abs/1411.4038)[2015] [CVPR] [FCN] [全卷积]
@@ -202,7 +211,7 @@
 - [Deep adversarial networks for biomedical image segmentation utilizing unannotated images](https://www.researchgate.net/publication/319460791_Deep_Adversarial_Networks_for_Biomedical_Image_Segmentation_Utilizing_Unannotated_Images)
 - 
 
-## 6 Basic Papers
+## 7 Basic Papers
 
 ### Classification
 
@@ -239,7 +248,7 @@
 - pix2pix
 - StypeGAN
 
-## 5 Others
+## 8 Others
 
   - Data augmentation
   - model Tweaks & Pruning

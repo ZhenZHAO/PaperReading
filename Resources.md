@@ -48,6 +48,8 @@
 - Unsupervised Visual Learning Tutorial. *CVPR 2018* [[part 1\]](https://www.youtube.com/watch?v=gSqmUOAMwcc) [[part 2\]](https://www.youtube.com/watch?v=BijK_US6A0w)
 - Weakly Supervised Learning for Computer Vision. *CVPR 2018* [[web\]](https://hbilen.github.io/wsl-cvpr18.github.io/) [[part 1\]](https://www.youtube.com/watch?v=bXfZFmE8cjo) [[part 2\]](https://www.youtube.com/watch?v=FetNp6f19IM)
 - CVPR 2020 [Learning from Imperfect Data (LID)](https://lidchallenge.github.io/) 
+- CVPR2020小样本学习 https://annotation-efficient-learning.github.io/
+- ECCV 2020 [Self Supervised Learning: What is Next?](https://sslwin.org/)
 
 
 
@@ -92,7 +94,7 @@
 
 ### MICS China
 
-- [MICS_China](https://space.bilibili.com/269362804?spm_id_from=333.788.b_765f7570696e666f.2)
+- [MICS_China](https://space.bilibili.com/269362804?spm_id_from=333.788.b_765f7570696e666f.2), http://mics.net.cn/
 - [上科大-何旭明-关于图像语义分割和对齐问题中的弱监督策略](https://www.bilibili.com/video/BV1tf4y1X7Hu)
 - [帝国理工-柏文佳-机器学习在心脏图像分析/小样本](https://www.bilibili.com/video/BV1tv411v7d6?from=search&seid=1792061805353856694)
 - [西北工业-夏勇（医学影像小数据深度学习）](https://www.bilibili.com/video/BV1wz4y1R7cj/?spm_id_from=333.788.videocard.4)
@@ -123,10 +125,10 @@
 ## 4 Datasets&SOTA
 
 - SOTAs
+  - [paperswithcode-SOTA](https://paperswithcode.com/sota)
   - [MedicalZooPytorch -3D multi-modal medical image segmentation library in PyTorch](https://github.com/black0017/MedicalZooPytorch)
   - [awesome-medical-imaging-tools](https://github.com/fepegar/awesome-medical-imaging)
   - https://www.jiqizhixin.com/sota
-  - [paperswithcode-SOTA](https://paperswithcode.com/sota)
 - [Medical Image Segmentation subtasks](https://paperswithcode.com/area/computer-vision/medical-image-segmentation)
   - Imaging Modality:
     - Computed Tomography (CT)
